@@ -403,14 +403,14 @@ p{letter-spacing: 2px;}
           margin-top: 200px;
       }
       .bioTittle{
-          padding: 10px 166px 12px 50px;
+          padding: 10px;
           font-size: 25px;
           color: rgb(171, 171, 171);
       }
       .bio{
           color: white;
           padding: 18px 24px;
-          text-align: center;
+          text-align: left;
           font-weight: 100;
           position: relative;
         line-height: 1.4;
